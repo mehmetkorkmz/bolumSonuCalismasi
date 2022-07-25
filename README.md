@@ -1,0 +1,2 @@
+# bolumSonuCalismasi
+www.patika.dev
